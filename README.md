@@ -1,1 +1,1 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=%F0%9F%91%8B+Hi+there!;I'm+Berke%2C+a+full-stack+developer.;Coding+is+my+passion%2C+and+I%E2%80%99m+always+excited+to+build+something+new!+%F0%9F%9A%80)](https://git.io/typing-svg)
